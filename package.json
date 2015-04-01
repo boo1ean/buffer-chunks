@@ -1,0 +1,24 @@
+{
+  "name": "buffer-chunks",
+  "version": "0.1.1",
+  "description": "Split buffer into chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boo1ean/buffer-chunks.git"
+  },
+  "keywords": [
+    "buffer",
+    "chunks",
+    "split"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boo1ean/buffer-chunks/issues"
+  },
+  "homepage": "https://github.com/boo1ean/buffer-chunks"
+}
